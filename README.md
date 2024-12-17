@@ -15,5 +15,5 @@ We see RefSeq ```GCF_014131755.1``` is the best one.
 
 # Download Genome for a particular taxa
 ```
-./datasets download genome accession "Bacteroides thetaiotaomicron" --filename genome.zip
+./datasets download genome accession "GCF_014131755.1" --filename genome.zip
 ```
